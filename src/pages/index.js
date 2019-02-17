@@ -17,12 +17,18 @@ const Home = (props) => {
           content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
         />
       </Helmet>
-      <div className="intro pb-4">
+      <div className="intro pb-6">
         <div className="container">
-          <h1>Serif - Gatsby Small Business Theme.</h1>
+          <h1>SPINE SURGEON TEST PAGE FOR POTENTIAL DOCTORS.</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            At Wildstein Spine Center, in Charleston, SC, patients receive personal care and
+            attention for neck and back pain by a board-certified spine surgeon. As a patient, you
+            can be certain that all non-operative measures will be thoroughly explored prior to
+            embarking on a surgical solution to your pain or injury. Receiving the highest patient
+            satisfaction scores for spinal care in the Charleston/ Mount Pleasant region, Dr.
+            Michael Wildstein is the trusted and experienced spine surgeon for your care. We have
+            excellent relationships with medical imaging facilities, radiologists, interventional
+            and pain management physicians, as well as physical and occupational therapists.
           </p>
         </div>
       </div>
