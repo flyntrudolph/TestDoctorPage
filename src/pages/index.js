@@ -17,6 +17,7 @@ const Home = (props) => {
           content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
         />
       </Helmet>
+      {/* <div className="FlyntLogo pb-1"> */}
       <div className="intro pb-6">
         <div className="container">
           <h1>SPINE SURGEON TEST PAGE FOR POTENTIAL DOCTORS.</h1>
@@ -32,6 +33,7 @@ const Home = (props) => {
           </p>
         </div>
       </div>
+      {/* </div> */}
 
       <div className="container pt-2">
         <Call button />
